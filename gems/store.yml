@@ -1,0 +1,55 @@
+# Final Project: Werewolves and Wanderer
+# Date: 02-May-2018
+# Authors:
+#          A01374526 José Karlo Hurtado Corona
+#          A01373890 Gabriela Aguilar Lugo
+
+#0
+-   option:     "TO CONTINUE ADVENTURE"
+    extratext:  ""
+    boughttext: ""
+    liartext:   "YOU HAVE TRIED TO CHEAT ME!"
+
+#1
+-   option:     "FLAMING TORCH"
+    extratext:  "YOU HAVE A TORCH"
+    boughttext: "YOU BOUGHT A FLAMING TORCH"
+    liartext:   "YOU HAVE TRIED TO CHEAT ME!"
+
+#2
+-   option:     "AXE"
+    extratext:  "YOUR SUPPLIES INCLUDE ONE AXE"
+    boughttext: "YOU BOUGHT AN AXE"
+    liartext:   "YOU HAVE TRIED TO CHEAT ME!"
+
+
+#3
+-   option:     "SWORD"
+    extratext:  "YOU SHOULD GUARD YOUR SWORD WELL"
+    boughttext: "YOU BOUGHT A SWORD"
+    liartext:   "YOU HAVE TRIED TO CHEAT ME!"
+
+#4
+-   option:     "FOOD"
+    extratext:  "HOW MANY UNITS OF FOOD? "
+    boughttext: ""
+    liartext:   ""
+
+#5
+-   option:     "MAGIC AMULET"
+    extratext:  "YOUR AMULET WILL AID YOU IN TIMES OF STRESS"
+    boughttext: "YOU BOUGHT A MAGIC AMULET "
+    liartext:   "YOU HAVE TRIED TO CHEAT ME!"
+
+#6
+-   option:     "SUIT OF ARMOR"
+    extratext:  "YOU LOOK GOOD IN ARMOR"
+    boughttext: "YOU BOUGHT SUIT OF ARMOR"
+    liartext:   "YOU HAVE TRIED TO CHEAT ME!"
+
+#7 
+-   option:     "FOOD2"
+    extratext:  "YOU BOUGHT "
+    boughttext: " UNITS OF FOOD"
+    liartext:   "YOU HAVE TRIED TO CHEAT ME!"
+
